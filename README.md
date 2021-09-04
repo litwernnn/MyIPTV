@@ -1,2 +1,2 @@
-# To access the m3u file, copy the url:
-URL: https://github.com/litwernnn/MyIPTV/blob/main/korea.m3u
+# To access the m3u file, copy the following url:
+URL: https://raw.githubusercontent.com/litwernnn/MyIPTV/main/korea.m3u
