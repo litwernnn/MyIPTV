@@ -15,10 +15,10 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroAOD.my" tvg-name="Astro AOD HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/311_300.png" group-title="General",Astro AOD HD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="General",Astro全佳 HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8https
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="General",Astro双星 HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
