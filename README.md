@@ -1,3 +1,3 @@
 # README
-To access the m3u file, copy the following url:
+To access the m3u file, copy the following url:\n
 URL: https://raw.githubusercontent.com/litwernnn/MyIPTV/main/korea.m3u
