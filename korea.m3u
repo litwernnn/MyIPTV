@@ -29,18 +29,6 @@ https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciO
 #EXTINF:-1 tvg-id="" tvg-name="XtvN" tvg-language="Korean" tvg-logo="https://i.imgur.com/cd83V1R.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",XtvN
 https://xtvn-seezn.pip.cjenm.com/xtvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4NDEzOTcsInBhdGgiOiIveHR2bi9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyODQxMDk3Mzc3ODk1NDkiLCJpYXQiOjE2MjI4NDEwOTd9.9pi9B9edYbRI9XfkmAzB_Eo1bYiv9ubHtljPhMNAKfM
 
-#EXTINF:-1 tvg-id="" tvg-name="KBS Drama" tvg-language="Korean" tvg-logo="https://i.imgur.com/q0iBpra.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Drama
-https://p2xu7ctvpt.freestream24.com/live2/ev7smr25sn/playlist.m3u8?E3oMuOT2i4GHyg7llp2sScrMgy2eErF4xSDICHhAIO1lMkVpfCVG3ZiM3VwlHH_TB3SvRtjkKtH1N6VVot-OGmiuFddcwdT22VFrlDGZ_T0
-
-#EXTINF:-1 tvg-id="" tvg-name="KBS Joy" tvg-language="Korean" tvg-logo="https://i.imgur.com/2LsJFd7.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Joy
-https://p2xu7ctvpt.freestream24.com/live2/i01h3glevj/playlist.m3u8?dZ1bbdlpk1JLW3q7CjDPyvDBTQDDGy2uE6O2jL3BhTpt1RcKKRzDVaDqC39KkGeltUiTzfz2jSycwFJlBmkTYtKCvUQ8slplSRVSG4tlTXM
-
-#EXTINF:-1 tvg-id="" tvg-name="KBS W" tvg-language="Korean" tvg-logo="https://i.imgur.com/TeGJmNK.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS W
-https://bit.ly/38CjzbW
-
-#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-language="Korean" tvg-logo="https://i.imgur.com/ctDyFhV.png" tvg-country="KR" tvg-url="http://kbsworld.kbs.co.kr"1 group-title="Entertainment",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Chosun" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",TV Chosun
 http://51.81.66.195:1935/krtv/tvchosun_540/playlist.m3u8
 
