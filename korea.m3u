@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS2
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="KBS2(Korea IP)" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS2(Korea IP)
+https://2tvhd.gscdn.kbs.co.kr/2tv-02/2tv-02_hd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Entertainment",SBS
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 
