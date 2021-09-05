@@ -1,0 +1,180 @@
+#EXTINF:-1 tvg-id="tving|C00551" tvg-name="tvN Korea" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00551.png" group-title="tving" tvg-chno="120" tvh-chnum="120",tving tvN Korea
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00593" tvg-name="YTN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00593.png" group-title="tving" tvg-chno="121" tvh-chnum="121",tving YTN
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00593&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C01143" tvg-name="O tvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01143.png" group-title="tving" tvg-chno="122" tvh-chnum="122",tving O tvN
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C15741" tvg-name="JTBC2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15741.png" group-title="tving" tvg-chno="123" tvh-chnum="123",tving JTBC2
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C15741&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C01141" tvg-name="XtvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01141.png" group-title="tving" tvg-chno="124" tvh-chnum="124",tving XtvN
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C01582" tvg-name="JTBC" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01582.png" group-title="tving" tvg-chno="125" tvh-chnum="125",tving JTBC
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00575" tvg-name="Olive" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00575.png" group-title="tving" tvg-chno="126" tvh-chnum="126",tving Olive
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00575&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C01723" tvg-name="YonhapNewsTV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01723.png" group-title="tving" tvg-chno="127" tvh-chnum="127",tving YonhapNewsTV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01723&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C22041" tvg-name="JTBC4" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C22041.png" group-title="tving" tvg-chno="128" tvh-chnum="128",tving JTBC4
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00805" tvg-name="JTBC GOLF&SPORTS" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00805.png" group-title="tving" tvg-chno="129" tvh-chnum="129",tving JTBC GOLF&SPORTS
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00805&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00579" tvg-name="Mnet" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00579.png" group-title="tving" tvg-chno="131" tvh-chnum="131",tving Mnet
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00588" tvg-name="JTBC Golf" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00588.png" group-title="tving" tvg-chno="132" tvh-chnum="132",tving JTBC Golf
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00588&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C01583" tvg-name="ChannelA" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01583.png" group-title="tving" tvg-chno="133" tvh-chnum="133",tving ChannelA
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01583&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C01142" tvg-name="ONSTYLE" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01142.png" group-title="tving" tvg-chno="135" tvh-chnum="135",tving ONSTYLE
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01142&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00585" tvg-name="TV CHOSUN 2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00585.png" group-title="tving" tvg-chno="137" tvh-chnum="137",tving TV CHOSUN 2
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00585&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C01581" tvg-name="TV CHOSUN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01581.png" group-title="tving" tvg-chno="138" tvh-chnum="138",tving TV CHOSUN
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01581&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C17141" tvg-name="ChannelAPlus" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17141.png" group-title="tving" tvg-chno="141" tvh-chnum="141",tving ChannelAPlus
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C17141&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00544" tvg-name="ChunghwaTV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00544.png" group-title="tving" tvg-chno="142" tvh-chnum="142",tving ChunghwaTV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C01101" tvg-name="YTN2" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C01101.png" group-title="tving" tvg-chno="143" tvh-chnum="143",tving YTN2
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01101&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C17142" tvg-name="MBN Plus" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C17142.png" group-title="tving" tvg-chno="145" tvh-chnum="145",tving MBN Plus
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C17142&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C43241" tvg-name="Nickelodeon" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43241.png" group-title="tving" tvg-chno="146" tvh-chnum="146",tving Nickelodeon
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C43241&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C43341" tvg-name="SBS F!L" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43341.png" group-title="tving" tvg-chno="147" tvh-chnum="147",tving SBS F!L
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C43341&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C43342" tvg-name="THE K-POP" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43342.png" group-title="tving" tvg-chno="148" tvh-chnum="148",tving THE K-POP
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00590" tvg-name="OGN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00590.png" group-title="tving" tvg-chno="150" tvh-chnum="150",tving OGN
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00590&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C00708" tvg-name="MBN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00708.png" group-title="tving" tvg-chno="151" tvh-chnum="151",tving MBN
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C15347" tvg-name="YTNScience" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15347.png" group-title="tving" tvg-chno="152" tvh-chnum="152",tving YTNScience
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C15347&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C15846" tvg-name="SBS Biz" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C15846.png" group-title="tving" tvg-chno="153" tvh-chnum="153",tving SBS Biz
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C15846&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="tving|C43242" tvg-name="SBS MTV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C43242.png" group-title="tving" tvg-chno="155" tvh-chnum="155",tving SBS MTV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C43242&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="JIBS-DTV" tvg-name="Jeju JIBS SBS" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png" group-title="FTA" tvg-chno="156" tvh-chnum="156",Jeju JIBS SBS
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="wavve|K02" tvg-name="KBS 2TV" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/KBS-2TV-2.png" group-title="wavve" tvg-chno="1" tvh-chnum="1",wavve KBS 2TV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|M01" tvg-name="MBC" tvg-logo="" group-title="wavve" tvg-chno="2" tvh-chnum="2",wavve MBC
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|S01" tvg-name="SBS" tvg-logo="" group-title="wavve" tvg-chno="3" tvh-chnum="3",wavve SBS
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|K01" tvg-name="KBS 1TV" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/KBS%201TV-2.png" group-title="wavve" tvg-chno="4" tvh-chnum="4",wavve KBS 1TV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|E01" tvg-name="EBS 1" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/ebs1.png" group-title="wavve" tvg-chno="5" tvh-chnum="5",wavve EBS 1
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=E01&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|E07" tvg-name="EBS 2" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/ebs2.png" group-title="wavve" tvg-chno="6" tvh-chnum="6",wavve EBS 2
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=E07&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|F2101" tvg-name="KoreaEconomicTV" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2101_TVImg_20201013140748.png" group-title="wavve" tvg-chno="13" tvh-chnum="13",wavve KoreaEconomicTV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=F2101&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|F2001" tvg-name="MaeilBusinessTV" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2001_TVImg_20201117230801.png" group-title="wavve" tvg-chno="14" tvh-chnum="14",wavve MaeilBusinessTV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=F2001&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|K06" tvg-name="KBS DRAMA" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/11_kbs%20Drama.png" group-title="wavve" tvg-chno="34" tvh-chnum="34",wavve KBS DRAMA
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=K06q=SD&&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|K04" tvg-name="KBS JOY" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/12_kbs%20Joy.png" group-title="wavve" tvg-chno="35" tvh-chnum="35",wavve KBS JOY
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=K04&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|K05" tvg-name="KBS Life" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K05_TVImg_20210401135119.png" group-title="wavve" tvg-chno="36" tvh-chnum="36",wavve KBS Life
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=K05&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|K09" tvg-name="KBS Story" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K09_TVImg_20210401135323.png" group-title="wavve" tvg-chno="37" tvh-chnum="37",wavve KBS Story
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=K09&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|K23" tvg-name="KBSN PLUS" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/KBSN-2.png" group-title="wavve" tvg-chno="38" tvh-chnum="38",wavve KBSN PLUS
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=K23&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|M06" tvg-name="MBC M" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/M06_TVImg_20200218143231.png" group-title="wavve" tvg-chno="43" tvh-chnum="43",wavve MBC M
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=M06&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|M02" tvg-name="MBC Drama" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/17_MBC%20drama.png" group-title="wavve" tvg-chno="44" tvh-chnum="44",wavve MBC Drama
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=M02&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|M03" tvg-name="MBC Every1" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/18_MBC%20every1.png" group-title="wavve" tvg-chno="45" tvh-chnum="45",wavve MBC Every1
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=M03&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|M14" tvg-name="MBC ON" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/M14_TVImg_20200611005554.png" group-title="wavve" tvg-chno="46" tvh-chnum="46",wavve MBC ON
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=M14&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|M10" tvg-name="ALL THE K-POP" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/19_all%20the%20KPOP.png" group-title="wavve" tvg-chno="47" tvh-chnum="47",wavve ALL THE K-POP
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|S04" tvg-name="SBS funE" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/20_sbs%20FunE.png" group-title="wavve" tvg-chno="51" tvh-chnum="51",wavve SBS funE
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=S04&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|S03" tvg-name="SBS Plus" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/21_sbs%20Plus.png" group-title="wavve" tvg-chno="52" tvh-chnum="52",wavve SBS Plus
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=S03&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C7301" tvg-name="DongATV" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/donga-2.png" group-title="wavve" tvg-chno="66" tvh-chnum="66",wavve DongATV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C7301&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C6901" tvg-name="PolarisTV" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/Polaris-2.png" group-title="wavve" tvg-chno="67" tvh-chnum="67",wavve PolarisTV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C6901&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C5901" tvg-name="HISTORY" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/history-2.png" group-title="wavve" tvg-chno="68" tvh-chnum="68",wavve HISTORY
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5901&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C5902" tvg-name="LIFETIME" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/lifetime-2.png" group-title="wavve" tvg-chno="69" tvh-chnum="69",wavve LIFETIME
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5902&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C4001" tvg-name="Discovery Korea" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C4001_TVImg_20210225102159.png" group-title="wavve" tvg-chno="70" tvh-chnum="70",wavve Discovery Korea
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4001&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|X01" tvg-name="EDGETV" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/X01_TVImg_20191001110605.png" group-title="wavve" tvg-chno="71" tvh-chnum="71",wavve EDGETV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=X01&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|X02" tvg-name="FUNTV" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/X02_TVImg_20191001110821.png" group-title="wavve" tvg-chno="72" tvh-chnum="72",wavve FUNTV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=X02&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C8701" tvg-name="Telenovela" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/C8701_TVImg_20191007165104.png" group-title="wavve" tvg-chno="73" tvh-chnum="73",wavve Telenovela
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8701&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C5501" tvg-name="ChannelJ" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/CH_J_TV.png" group-title="wavve" tvg-chno="74" tvh-chnum="74",wavve ChannelJ
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5501&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C5101" tvg-name="AsiaN" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/AsiaN.png" group-title="wavve" tvg-chno="75" tvh-chnum="75",wavve AsiaN
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5101&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C8401" tvg-name="ChannelChina" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/Channel_China-2.png" group-title="wavve" tvg-chno="76" tvh-chnum="76",wavve ChannelChina
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8401&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C3901" tvg-name="ChannelW" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/33_%EC%B1%84%EB%84%90w.png" group-title="wavve" tvg-chno="77" tvh-chnum="77",wavve ChannelW
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C3901&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C8101" tvg-name="WeLike" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/C8101-2.png" group-title="wavve" tvg-chno="78" tvh-chnum="78",wavve WeLike
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8101&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|H02" tvg-name="PLAYY Premium" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png" group-title="wavve" tvg-chno="80" tvh-chnum="80",wavve PLAYY Premium
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=H02&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|H01" tvg-name="PLAYY Wellmade" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/28_playy%EC%9B%94%EB%A9%94%EC%9D%B4%EB%93%9C%EC%98%81%ED%99%94.png" group-title="wavve" tvg-chno="81" tvh-chnum="81",wavve PLAYY Wellmade
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=H01&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|H07" tvg-name="PLAYY Action" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/29_playy%EC%95%A1%EC%85%98%EC%98%81%ED%99%94.png" group-title="wavve" tvg-chno="82" tvh-chnum="82",wavve PLAYY Action
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=H07&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|H05" tvg-name="Cinema ChunGuk" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/H05_TVImg_20201127184140.png" group-title="wavve" tvg-chno="83" tvh-chnum="83",wavve Cinema ChunGuk
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=H05&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C5102" tvg-name="AsiaM" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C5102_TVImg_20201127184619.png" group-title="wavve" tvg-chno="84" tvh-chnum="84",wavve AsiaM
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5102&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|F2601" tvg-name="IndieFilm" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2601_TVImg_20201127183455.png" group-title="wavve" tvg-chno="85" tvh-chnum="85",wavve IndieFilm
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=F2601&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|F2501" tvg-name="THE MOVIE" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2501_TVImg_20201127183840.png" group-title="wavve" tvg-chno="86" tvh-chnum="86",wavve THE MOVIE
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=F2501&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|S05" tvg-name="SBS Golf" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S05_TVImg_20201209150312.png" group-title="wavve" tvg-chno="99" tvh-chnum="99",wavve SBS Golf
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=S05&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C4401" tvg-name="ANIBOX" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/32_%EC%95%A0%EB%8B%88%EB%B0%95%EC%8A%A4.png" group-title="wavve" tvg-chno="87" tvh-chnum="87",wavve ANIBOX
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4401&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C4402" tvg-name="ANIONE" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/ANIONE_2.png" group-title="wavve" tvg-chno="88" tvh-chnum="88",wavve ANIONE
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4402&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|A01" tvg-name="ANIMAX" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/31_anymax.png" group-title="wavve" tvg-chno="89" tvh-chnum="89",wavve ANIMAX
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|D01" tvg-name="Disney" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/30_disney.png" group-title="wavve" tvg-chno="90" tvh-chnum="90",wavve Disney
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=D01&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|S10" tvg-name="SBS Nick" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/35_nick.png" group-title="wavve" tvg-chno="91" tvh-chnum="91",wavve SBS Nick
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=S10&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|E05" tvg-name="EBSKids" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/ebs%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B3.png" group-title="wavve" tvg-chno="92" tvh-chnum="92",wavve EBSKids
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=E05&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|D02" tvg-name="Disney Junior" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/36_disney%20Junior.png" group-title="wavve" tvg-chno="93" tvh-chnum="93",wavve Disney Junior
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=D02&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|F0501" tvg-name="BTNTV" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F0501_TVImg_20200611004938.png" group-title="wavve" tvg-chno="100" tvh-chnum="100",wavve BTNTV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=F0501&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|F0601" tvg-name="CTS" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F0601_TVImg_20200611005125.png" group-title="wavve" tvg-chno="101" tvh-chnum="101",wavve CTS
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=F0601&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|F0701" tvg-name="CPBC" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F0701_TVImg_20200611005334.png" group-title="wavve" tvg-chno="102" tvh-chnum="102",wavve CPBC
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=F0701&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C4101" tvg-name="HyundaiHomeShopping" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/61_%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91.png" group-title="wavve" tvg-chno="18" tvh-chnum="18",wavve HyundaiHomeShopping
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4101&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C8301" tvg-name="NSHomeShopping" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/NS_%ED%99%88%EC%87%BC%ED%95%91-2.png" group-title="wavve" tvg-chno="19" tvh-chnum="19",wavve NSHomeShopping
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8301&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C5601" tvg-name="LotteHomeShopping" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/lotte-2.png" group-title="wavve" tvg-chno="20" tvh-chnum="20",wavve LotteHomeShopping
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5601&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C4202" tvg-name="GS MY SHOP" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/60_GSmyshop.png" group-title="wavve" tvg-chno="21" tvh-chnum="21",wavve GS MY SHOP
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4202&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C4102" tvg-name="HyundaiHomeShoppingPlusShop" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/62_%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91plus%EC%83%B5.png" group-title="wavve" tvg-chno="22" tvh-chnum="22",wavve HyundaiHomeShoppingPlusShop
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4102&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C8302" tvg-name="NS SHOP+" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/ns%20shop-2.png" group-title="wavve" tvg-chno="23" tvh-chnum="23",wavve NS SHOP+
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8302&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C4901" tvg-name="ShoppingEnT" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/63_%EC%87%BC%ED%95%91%EC%97%94%ED%8B%B0.png" group-title="wavve" tvg-chno="24" tvh-chnum="24",wavve ShoppingEnT
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4901&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C4801" tvg-name="ShinSaegeTVShopping" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/shin_180x24_re.png" group-title="wavve" tvg-chno="25" tvh-chnum="25",wavve ShinSaegeTVShopping
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4801&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|C5602" tvg-name="LotteHomeShopping ONETV" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/C5602_TVImg_20191230135746.png" group-title="wavve" tvg-chno="26" tvh-chnum="26",wavve LotteHomeShopping ONETV
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5602&q=SD&apikey=cit1254678
+#EXTINF:-1 tvg-id="wavve|F1401" tvg-name="K SHOPPING" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F1401_TVImg_20201209152726.png" group-title="wavve" tvg-chno="27" tvh-chnum="27",wavve K SHOPPING
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=wavve&i=F1401&q=SD&apikey=cit1254678
