@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro AEC" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Y8A3wOa.png?1" group-title="General",Astro AEC
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/vkHmFeV.png" group-title="General",Astro双星
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro双星" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/vkHmFeV.png" group-title="General",Astro双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tyIURCE.png" group-title="General",Astro全佳
+#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro全佳" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tyIURCE.png" group-title="General",Astro全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="iQIY.my" tvg-name="iQIY" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/6iHV1gJ.png" group-title="General",Astro爱奇艺
+#EXTINF:-1 tvg-id="iQIY.my" tvg-name="Astro爱奇艺" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/6iHV1gJ.png" group-title="General",Astro爱奇艺
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroAOD.my" tvg-name="Astro AOD HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/JlFc0Xi.png" group-title="General",Astro AOD
+#EXTINF:-1 tvg-id="AstroAOD.my" tvg-name="Astro AOD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/JlFc0Xi.png" group-title="General",Astro AOD
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
-#EXTINF:-1 ,Astro XiAO TAI YANG [HEVC]
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro小太阳" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/UC42d7g.png" group-title="General",Astro小太阳
 http://50.7.161.82:8278/streams/d/xiaotaiyang_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oh!K.my" tvg-name="Oh!K" tvg-country="MY" tvg-language="Korean" tvg-logo="https://i.imgur.com/VDbN8Wc.png" group-title="General",Oh!K
