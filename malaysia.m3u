@@ -8,6 +8,9 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro全佳" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tyIURCE.png" group-title="General",Astro全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AstroHuaLiTaiHD.my" tvg-name="Astro華麗台" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/iLR9rEo.png" group-title="General",Astro華麗台
+http://iptv.tvmalaysia.cc:80/932633/932633/8970
+
 #EXTINF:-1 tvg-id="iQIY.my" tvg-name="Astro爱奇艺" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://i.imgur.com/6iHV1gJ.png" group-title="General",Astro爱奇艺
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 
