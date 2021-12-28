@@ -6,19 +6,19 @@ https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJ
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="JTBC(Korea IP)" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC(Korea IP)
-http://1.214.67.208/vod/74701.m3u8?SessionID=222da691-54d6-4ff5-b350-ae9845b2bca9&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
+http://1.214.67.100/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS2
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Entertainment",SBS
-http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+http://itskoi.dothome.co.kr/sbs.php?id=S01
 
 #EXTINF:-1 tvg-id="" tvg-name="SBS(CJB)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Entertainment",SBS(CJB)
 https://5ee9be10640ac.streamlock.net/live/cjbtv/chunklist_w2029927091.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC
-http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC(Korea IP)" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC(Korea IP)
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/chunklist_w2017323832.m3u8
