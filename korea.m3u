@@ -20,6 +20,9 @@ https://5ee9be10640ac.streamlock.net/live/cjbtv/chunklist_w2029927091.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC(Temp)
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC(Korea IP)" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC(Korea IP)
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/chunklist_w2017323832.m3u8
 
