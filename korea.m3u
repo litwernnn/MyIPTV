@@ -45,7 +45,7 @@ http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 http://1.214.67.12:80/68901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 
 #EXTINF:-1 tvg-id="" tvg-name="JTBC (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC (South Korea IP ONLY)
-http://1.214.67.100/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+https://hypera.live/api/delivery/stream/jtbc/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjIuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTIyLjAuMC4wIiwidXNlcklkIjoiMDE4ZTQ3NTMtNGU5MS03ZWVjLWEyMTAtMTFhOWVhODc2MzVmIiwiaHVpZCI6ImdtaHU0OGtmNnMiLCJpc19hdWRpb19vbmx5IjpmYWxzZSwiaXNfcGFpZF91c2VyIjp0cnVlLCJwbGF0Zm9ybV9sYW5ndWFnZSI6ImVuIiwiaWF0IjoxNzEwNjY3NDYzLCJleHAiOjE3MTA2ODkwNjN9.MOnJHaLfLrSoGFxM_11Somh84K8LjmvNb2r-nLWhtk8
 
 #EXTINF:-1 tvg-id="" tvg-name="tvN (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN (South Korea IP ONLY)
 http://1.214.67.12:80/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
